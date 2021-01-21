@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <information>
+    <name>메밀이네</name>
+    <version>1.0</version>
+    <description>
+      <![CDATA[메밀이네에서 사용하는 스킨]]>
+    </description>
+    <license>
+      <![CDATA[@메밀이네]]>
+    </license>
+  </information>
+  <author>
+    <name>yoordi</name>
+    <homepage>https://memilshouse.tistory.com</homepage>
+    <email>supp0rtyoo@gamil.com</email>
+  </author>
+  <default>
+    <recentEntries>3</recentEntries>
+    <recentComments>5</recentComments>
+    <recentTrackbacks>5</recentTrackbacks>
+    <itemsOnGuestbook>5</itemsOnGuestbook>
+    <tagsInCloud>20</tagsInCloud>
+    <sortInCloud>1</sortInCloud>
+    <expandComment>1</expandComment>
+    <expandTrackback>0</expandTrackback>
+    <lengthOfRecentNotice>50</lengthOfRecentNotice>
+    <lengthOfRecentEntry>27</lengthOfRecentEntry>
+    <lengthOfRecentComment>30</lengthOfRecentComment>
+    <lengthOfRecentTrackback>30</lengthOfRecentTrackback>
+    <lengthOfLink>30</lengthOfLink>
+    <entriesOnPage>2</entriesOnPage>
+    <entriesOnList>3</entriesOnList>
+    <showListOnCategory>1</showListOnCategory>
+    <showListOnArchive>1</showListOnArchive>
+    <commentMessage>
+      <none></none>
+      <single>댓글이 &lt;span class="cnt"&gt;하나&lt;/span&gt; 있습니다.</single>
+    </commentMessage>
+    <trackbackMessage>
+      <none>받은 트랙백이 없고</none>
+      <single>트랙백이 &lt;span class="cnt"&gt;하나&lt;/span&gt;이고</single>
+    </trackbackMessage>
+    <tree>
+      <color>000000</color>
+      <bgColor>ffffff</bgColor>
+      <activeColor>000000</activeColor>
+      <activeBgColor>eeeeee</activeBgColor>
+      <labelLength>15</labelLength>
+      <showValue>0</showValue>
+    </tree>
+    <contentWidth>640</contentWidth>
+  </default>
+</skin>
